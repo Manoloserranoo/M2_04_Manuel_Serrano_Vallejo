@@ -31,8 +31,6 @@ for frase in diccionario_persona:
   enumeracion=enumeracion+1
 
 print(enumeracion)
-#Apartado:f
-
 #Apartado:g
 diccionario_persona['Estado']='soltero'
 print(diccionario_persona)
